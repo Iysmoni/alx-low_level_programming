@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - for alphaBET
+ * main - for alphaBETS
  *
  * Return: Always 0
  */
