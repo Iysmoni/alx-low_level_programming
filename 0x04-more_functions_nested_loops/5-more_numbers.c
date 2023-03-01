@@ -3,6 +3,7 @@
 /**
 * more_numbers - prints 10x the numbers, from 0 to 14
 * make  a new line
+* Return: null
 */
 
 void more_numbers(void)

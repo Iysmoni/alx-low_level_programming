@@ -3,7 +3,7 @@
 /**
 * print_triangle - function that prints a square, followed by a new line
 * @size: size of triangle
-* Return: nothing.
+* Return: null
 */
 
 void print_triangle(int size)

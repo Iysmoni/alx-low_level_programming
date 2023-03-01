@@ -3,6 +3,7 @@
 /**
 * print_line - draws a straight line through the terminal
 * @n: number of times the character "_" should be printed
+* Return: null
 */
 void print_line(int n)
 {
